@@ -1,0 +1,16 @@
+.base {
+	display: flex;
+	position: relative;
+
+	width: 17px;
+	height: 17px;
+
+	background-image: url('../../shared/assets/sprite.png');
+	background-repeat: no-repeat;
+	background-position: 1px -50px;
+
+	border: none;
+	padding: 0;
+
+	cursor: pointer;
+}
